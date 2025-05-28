@@ -1,4 +1,4 @@
-##Personal Book Library Data Visualization
+## Personal Book Library Data Visualization
 A Python-based data processing tool that automatically enriches your personal book library data from Google Sheets using the Google Books API, enabling comprehensive data visualization and analysis of your reading habits.
 Overview
 
